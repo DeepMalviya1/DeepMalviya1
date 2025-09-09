@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deep Malviya</h1>
-<h3 align="center">Artificial Intelligence domain Graduate || Skilled at Machine Learning, Deep Learning and Data Analytics.</h3>
+<h3 align="center">Artificial Intelligence domain Graduate || Junior Product Developer || Skilled at Machine Learning, Deep Learning and Data Analytics.</h3>
 
 - 🌱 I’m currently Exploring **Cloud and Generative AI**
 
