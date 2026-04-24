@@ -28,8 +28,13 @@ Specializing in <b>LLMs • RAG • Agentic AI • MCP • FastAPI • Azure AI 
 - 📄 **AI Document Intelligence System** – Azure Document Intelligence + OpenAI + RAG  
 - 🧠 **LLM Applications** – Retrieval, summarization, and automation systems  
 
-🔗 Explore all projects:  
-https://github.com/DeepMalviya1  
+<p align="left">
+
+<a href="https://github.com/DeepMalviya1">
+  <img src="https://img.shields.io/badge/All%20Projects-GitHub%20Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
@@ -62,7 +67,7 @@ https://github.com/DeepMalviya1
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 <!-- LLM / Agents -->
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
@@ -88,31 +93,42 @@ https://github.com/DeepMalviya1
 
 ## 📝 Research
 
-- 📄 **AI Applications & Systems Research**  
-  https://www.irjet.net/archives/V10/i5/IRJET-V10I5213.pdf  
+<p align="left">
 
-- 📄 **Image Restoration using Deep Learning**  
-  https://www.scribd.com/document/655112589/Image-Restoration-using-Deep-Learning  
+<a href="https://www.irjet.net/archives/V10/i5/IRJET-V10I5213.pdf">
+  <img src="https://img.shields.io/badge/Crack%20Detection%20using%20Deep%20Learning-View%20Paper-blue?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
 
-👉 This work focuses on restoring degraded images using deep learning techniques like CNNs, GANs, and autoencoders for tasks such as denoising, deblurring, and reconstruction :contentReference[oaicite:0]{index=0}  
+<a href="https://www.scribd.com/document/655112589/Image-Restoration-using-Deep-Learning">
+  <img src="https://img.shields.io/badge/Image%20Restoration%20using%20Deep%20Learning-View%20Paper-green?style=for-the-badge&logo=bookstack&logoColor=white"/>
+</a>
+
+</p>
+👉 Image restoration using CNNs, GANs, and autoencoders for denoising, deblurring, and reconstruction.
 
 ---
-<h3 align="left">🌐 Connect With Me</h3>
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/deepmalviya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Deep%20Malviya-blue?style=for-the-badge&logo=linkedin" />
+
+<a href="mailto:deepmalviya.aie@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://kaggle.com/deepmalviya7" target="_blank">
-  <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" />
+
+<a href="https://linkedin.com/in/deepmalviya">
+  <img src="https://img.shields.io/badge/LinkedIn-Deep%20Malviya-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://kaggle.com/deepmalviya7">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/deepmalviya">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge"/>
+</a>
+
 </p>
----
 
-## 📫 Contact
-
-- ✉️ deepmalviya.aie@gmail.com  
-- 🔗 https://linktr.ee/deepmalviya  
 
 ---
 
