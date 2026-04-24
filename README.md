@@ -52,31 +52,36 @@ https://github.com/DeepMalviya1
 - Focus on **latency, cost optimization, and real-world deployment**  
 
 ---
+## ⚒️ Tools & Technologies
 
-## ⚒️ Tech Stack
+<p align="left">
 
-### 🧠 AI / ML
-Python • PyTorch • TensorFlow • Scikit-learn  
+<!-- AI / ML -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
-### 🤖 LLM, Agents & Backend
-FastAPI • LangChain • MCP • RAG Pipelines • REST APIs  
+<!-- LLM / Agents -->
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LlamaIndex-black?style=for-the-badge"/>
 
-### ☁️ Cloud & AI Services
-Azure • Azure OpenAI • Azure Document Intelligence  
+<!-- Backend -->
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-### 📊 Data
-Pandas • NumPy • MySQL  
+<!-- Cloud -->
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-### ⚙️ Dev & Deployment
-Git • Docker • Streamlit  
+<!-- Data -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
----
+<!-- Dev -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepMalviya1&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepMalviya1" />
 </p>
 
 ---
@@ -92,19 +97,16 @@ Git • Docker • Streamlit
 👉 This work focuses on restoring degraded images using deep learning techniques like CNNs, GANs, and autoencoders for tasks such as denoising, deblurring, and reconstruction :contentReference[oaicite:0]{index=0}  
 
 ---
-
-## 🌐 Connect With Me
+<h3 align="left">🌐 Connect With Me</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/deepmalviya" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<a href="https://linkedin.com/in/deepmalviya" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Deep%20Malviya-blue?style=for-the-badge&logo=linkedin" />
 </a>
-
-<a href="https://kaggle.com/deepmalviya7" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+<a href="https://kaggle.com/deepmalviya7" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle" />
 </a>
 </p>
-
 ---
 
 ## 📫 Contact
